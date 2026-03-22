@@ -1,0 +1,12 @@
+{
+  "name": "cesium-renderer",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.42.0"
+  }
+}
